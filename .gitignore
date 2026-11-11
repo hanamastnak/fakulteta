@@ -16,6 +16,8 @@
 *.snm
 *.synctex.gz
 *.synctex(busy)
+*.png
+!slika.pdf
 
 # MacOS
 __MACOSX
